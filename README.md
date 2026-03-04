@@ -93,4 +93,4 @@ I am particularly focused on **fuzzing** and **formal verification**.
 
 | Protocol | Repos |
 |----------|------|
-| [Centrifuge Protocol V3.1](https://audits.sherlock.xyz/contests/1028?filter=questions) | [](https://audits.sherlock.xyz/contests/1028?filter=questions) |
+| [Centrifuge Protocol V3.1](https://audits.sherlock.xyz/contests/1028?filter=questions) | [result](https://audits.sherlock.xyz/contests/1028?filter=questions) |
