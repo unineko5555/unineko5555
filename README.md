@@ -16,14 +16,14 @@ I am particularly focused on **fuzzing** and **formal verification**.
 | [AlchemixV3](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/information/) | 🛡️ Immunefi | EVM / Solidity | Oct 14 – Nov 4, 2025 | [🟡 High valid](https://reports.immunefi.com/alchemix-v3/58236-sc-high-accounting-mismatch-forcerepay-doliquidation-fail-to-decrement-mytsharesdeposited-lock) · [🟢 Low valid](https://reports.immunefi.com/alchemix-v3/58422-sc-low-morphoyearn-og-weth-strategy-always-emits-deallocation-loss-event-due-to-zero-delta-cal?q=unineko) · [🟢 Low valid](https://reports.immunefi.com/alchemix-v3/58778-sc-low-zeroxswapverifier-implements-incorrect-data-extraction-logic-enabling-verification-bypa) |
 | [Vechain Stargate Hayabusa](https://immunefi.com/audit-competition/audit-comp-vechain-stargate-hayabusa/information/) | 🛡️ Immunefi | EVM / Solidity | Nov 10 – Nov 24, 2025 | [🟡 High valid](https://reports.immunefi.com/vechain-or-stargate-hayabusa/60575-sc-high-double-subtraction-of-delegator-effective-stack-on-exit-can-freeze-vet-and-break-rewar) · [🟢 Low valid](https://reports.immunefi.com/vechain-or-stargate-hayabusa/60578-sc-low-zero-boost-fee-for-newly-added-levels-lets-users-skip-maturity-for-free-and-avoid-payin) |
 | [Firelight](https://immunefi.com/audit-competition/audit-comp-firelight/leaderboard/#top) | 🛡️ Immunefi | EVM / Solidity | Nov 7 – Nov 17, 2025 | |
-| [Monolith StableCoin Factory](https://audits.sherlock.xyz/contests/1212?filter=questions) | 🔵 Sherlock | EVM / Solidity | Nov 9 – Nov 15, 2025 | |
-| [Flying Tulip](https://audits.sherlock.xyz/contests/1223?filter=questions) | 🔵 Sherlock | EVM / Solidity | Jan 6 – Jan 16, 2026 | ⏳ Judging |
-| [OpenCover Insured Vaults](https://audits.sherlock.xyz/contests/1222?filter=questions) | 🔵 Sherlock | EVM / Solidity | Jan 20 – Jan 24, 2026 | ⏳ Judging |
-| [FluidV2](https://audits.sherlock.xyz/contests/1225?filter=questions) | 🔵 Sherlock | EVM / Solidity | Jan 20 – Feb 19, 2026 | ⏳ Judging |
-| [Panoptic: Next Core](https://code4rena.com/audits/2025-12-panoptic-next-core) | 🟣 Code4rena | EVM / Solidity | Dec 19, 2025 – Jan 7, 2026 | ⏳ Judging |
-| [Olas](https://code4rena.com/audits/2026-01-olas) | 🟣 Code4rena | EVM / Solidity | Jan 22 – Feb 9, 2026 | ⏳ Judging |
-| [Injective Peggy Bridge](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | 🟣 Code4rena | Cosmos / Go | Feb 25 – Mar 17, 2026 | ⏳ Judging |
-| [Jupiter Lend](https://code4rena.com/audits/2026-02-jupiter-lend) | 🟣 Code4rena | Solana / Rust | Feb 6 – Mar 6, 2026 | ⏳ Judging |
+| [Monolith StableCoin Factory](https://audits.sherlock.xyz/contests/1212?filter=questions) | 🟣 Sherlock | EVM / Solidity | Nov 9 – Nov 15, 2025 | |
+| [Flying Tulip](https://audits.sherlock.xyz/contests/1223?filter=questions) | 🟣 Sherlock | EVM / Solidity | Jan 6 – Jan 16, 2026 | ⏳ Judging |
+| [OpenCover Insured Vaults](https://audits.sherlock.xyz/contests/1222?filter=questions) | 🟣 Sherlock | EVM / Solidity | Jan 20 – Jan 24, 2026 | ⏳ Judging |
+| [Fluid Dex V2](https://audits.sherlock.xyz/contests/1225?filter=questions) | 🟣 Sherlock | EVM / Solidity | Jan 20 – Feb 19, 2026 | ⏳ Judging |
+| [Panoptic: Next Core](https://code4rena.com/audits/2025-12-panoptic-next-core) | 🔵 Code4rena | EVM / Solidity | Dec 19, 2025 – Jan 7, 2026 | ⏳ Judging |
+| [Olas](https://code4rena.com/audits/2026-01-olas) | 🔵 Code4rena | EVM / Solidity | Jan 22 – Feb 9, 2026 | ⏳ Judging |
+| [Injective Peggy Bridge](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | 🔵 Code4rena | Cosmos / Go | Feb 25 – Mar 17, 2026 | ⏳ Judging |
+| [Jupiter Lend](https://code4rena.com/audits/2026-02-jupiter-lend) | 🔵 Code4rena | Solana / Rust | Feb 6 – Mar 6, 2026 | ⏳ Judging |
 | [VII Finance Contracts](https://cantina.xyz/code/eb93d215-e328-4d19-99ab-6c510acbb5aa/overview) | 🟠 Cantina | EVM / Solidity | Jan 12 – Jan 26, 2026 | ⏳ Judging |
 
 ---
