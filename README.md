@@ -49,8 +49,8 @@ I am particularly focused on **fuzzing** and **formal verification**.
 | Category | Tools |
 |----------|-------|
 | 💬 Languages | Solidity, (Go), (Rust) |
-| ⚒️ Frameworks | Foundry, Hardhat |
-| 🎯 Fuzzing | Medusa, Echidna, Chimera |
+| ⚒️ Frameworks | Foundry, Hardhat, (cosmos sdk), (Anchor) |
+| 🎯 Fuzzing | Medusa, Echidna, Chimera, (Trident) |
 | 🧑‍💻 Formal Verification | Halmos, Certora |
 
 ---
