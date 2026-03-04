@@ -1,6 +1,6 @@
 # Hi, I'm unineko 🐈
 
-Security Researcher and Developer.
+web3 Security Researcher and Developer.
 I am particularly focused on **fuzzing** and **formal verification**.
 
 [![Immunefi](https://img.shields.io/badge/Immunefi-Profile-orange?style=flat-square&logo=ethereum)](https://immunefi.com/profile/unineko/)
