@@ -20,10 +20,12 @@ I am particularly focused on **fuzzing** and **formal verification**.
 | [Flying Tulip](https://audits.sherlock.xyz/contests/1223?filter=questions) | 🟣 Sherlock | EVM / Solidity | Jan 6 – Jan 16, 2026 | ⏳ Judging |
 | [OpenCover Insured Vaults](https://audits.sherlock.xyz/contests/1222?filter=questions) | 🟣 Sherlock | EVM / Solidity | Jan 20 – Jan 24, 2026 | ⏳ Judging |
 | [Fluid Dex V2](https://audits.sherlock.xyz/contests/1225?filter=questions) | 🟣 Sherlock | EVM / Solidity | Jan 20 – Feb 19, 2026 | ⏳ Judging |
+| [Current Finance](https://audits.sherlock.xyz/contests/1256?filter=questions) | 🟣 Sherlock | Sui / move | Mar 7 – Mar 17, 2026 | ⏳ Judging |
 | [Panoptic: Next Core](https://code4rena.com/audits/2025-12-panoptic-next-core) | 🔵 Code4rena | EVM / Solidity | Dec 19, 2025 – Jan 7, 2026 | ⏳ Judging |
 | [Olas](https://code4rena.com/audits/2026-01-olas) | 🔵 Code4rena | EVM / Solidity | Jan 22 – Feb 9, 2026 | ⏳ Judging |
 | [Injective Peggy Bridge](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | 🔵 Code4rena | Cosmos / Go | Feb 25 – Mar 17, 2026 | ⏳ Judging |
 | [Jupiter Lend](https://code4rena.com/audits/2026-02-jupiter-lend) | 🔵 Code4rena | Solana / Rust | Feb 6 – Mar 6, 2026 | ⏳ Judging |
+| [Intuition](https://code4rena.com/audits/2026-03-intuition) | 🔵 Code4rena | Solidity / EVM | Mar 5 – Mar 10, 2026 | ⏳ Judging |
 | [VII Finance Contracts](https://cantina.xyz/code/eb93d215-e328-4d19-99ab-6c510acbb5aa/overview) | 🟠 Cantina | EVM / Solidity | Jan 12 – Jan 26, 2026 | ⏳ Judging |
 
 ---
@@ -48,9 +50,9 @@ I am particularly focused on **fuzzing** and **formal verification**.
 
 | Category | Tools |
 |----------|-------|
-| 💬 Languages | Solidity, (Go), (Rust) |
+| 💬 Languages | Solidity, (Go), (Rust), (Move) |
 | ⚒️ Frameworks | Foundry, Hardhat, (cosmos sdk), (Anchor) |
-| 🎯 Fuzzing | Medusa, Echidna, Chimera, (Trident) |
+| 🎯 Fuzzing | Medusa, Echidna, Chimera, (Trident), (moby) |
 | 🧑‍💻 Formal Verification | Halmos, Certora |
 
 ---
