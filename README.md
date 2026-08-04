@@ -3,12 +3,12 @@
 web3 Security Researcher and Developer.
 I am particularly focused on **fuzzing** and **formal verification**.
 
-[![Immunefi](https://img.shields.io/badge/Immunefi-Profile-orange?style=flat-square&logo=ethereum)](https://immunefi.com/profile/unineko/)
-[![Cyfrin](https://img.shields.io/badge/Cyfrin-Profile-blue?style=flat-square)](https://profiles.cyfrin.io/u/unineko)
 [![X](https://img.shields.io/badge/X-%40dj__capybara-black?style=flat-square&logo=x)](https://x.com/dj_capybara)
 [![Sherlock](https://img.shields.io/badge/Sherlock-Profile-8B5CF6?style=flat-square)](https://audits.sherlock.xyz/watson/unineko)
 [![Code4rena](https://img.shields.io/badge/Code4rena-Profile-3B82F6?style=flat-square)](https://code4rena.com/@unineko)
+[![Immunefi](https://img.shields.io/badge/Immunefi-Profile-orange?style=flat-square&logo=ethereum)](https://immunefi.com/profile/unineko/)
 [![Cantina](https://img.shields.io/badge/Cantina-Profile-F97316?style=flat-square)](https://cantina.xyz/u/unineko)
+[![Cyfrin](https://img.shields.io/badge/Cyfrin-Profile-blue?style=flat-square)](https://profiles.cyfrin.io/u/unineko)
 ---
 
 ## 🏆 Audit Contests
